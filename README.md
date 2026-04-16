@@ -37,6 +37,10 @@ Worked on terahertz image classification using CNNs — focusing on extracting p
 **💻 Campus Exchange Platform (ongoing)**  
 → Full-stack system with auth, CRUD, real-time features  
 
+**🧩 DSA Practice – LeetCode Solutions**  
+→ Solved 150+ problems covering arrays, trees, graphs, greedy and DP  
+→ Focused on improving problem-solving and algorithmic thinking  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -58,13 +62,6 @@ C, C++, Java
 **Tools**  
 Git, GitHub  
 Jupyter, Colab, VS Code  
-
----
-
-## 💡 Ask Me About
-- Computer Vision projects  
-- CNNs & model building  
-- DBMS design & queries  
 
 ---
 
