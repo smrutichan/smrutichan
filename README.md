@@ -34,8 +34,8 @@ Worked on terahertz image classification using CNNs — focusing on extracting p
 **🌾 AgroRent (DBMS System)**  
 → Normalized schema + optimized queries  
 
-**💻 Campus Exchange Platform (ongoing)**  
-→ Full-stack system with auth, CRUD, real-time features  
+**🔎 DocuLens**  
+→ AI-powered semantic search engine for PDFs.
 
 **🧩 DSA Practice – LeetCode Solutions**  
 → Solved 150+ problems covering arrays, trees, graphs, greedy and DP  
