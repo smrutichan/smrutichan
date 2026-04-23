@@ -46,9 +46,9 @@ Worked on terahertz image classification using CNNs — focusing on extracting p
 ## 🛠️ Tech Stack
 
 **ML & Computer Vision**  
-Python, NumPy, Pandas  
+Python, NumPy, Pandas 
 TensorFlow, PyTorch  
-OpenCV, Scikit-learn  
+OpenCV, Scikit-learn, Streamlit   
 
 **Databases**  
 MySQL, MongoDB  
