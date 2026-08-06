@@ -44,13 +44,6 @@ AI-powered document analysis platform that summarizes PDFs, answers questions, a
 
 ---
 
-### 📊 Reputation Intelligence Platform
-An NLP-powered platform that analyzes customer reviews and news to identify sentiment, emerging topics, and business narratives.
-
-**Tech:** Transformers • Sentence Transformers • FastAPI
-
----
-
 ### 🫁 Chest X-ray Classification
 Deep learning model for classifying chest X-ray images with **95%+ accuracy**.
 
