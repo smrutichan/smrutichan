@@ -37,10 +37,15 @@ AI-powered sustainability companion that encourages eco-friendly habits through 
 
 ---
 
-### 📄 DocDecode
-AI-powered document analysis platform that summarizes PDFs, answers questions, and extracts key insights using LLMs.
+### 🌾 AgroRent
+A database management system for renting agricultural equipment, designed to simplify equipment booking and management for farmers.
 
-**Tech:** FastAPI • Sentence Transformers • NLP
+**Highlights:**
+- Designed a normalized relational database schema
+- Implemented efficient SQL queries for booking, inventory, and user management
+- Focused on data integrity and query optimization
+
+**Tech:** MySQL • SQL • DBMS
 
 ---
 
@@ -94,14 +99,6 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Postman
 - Agentic AI
 - AWS Cloud Services
 - Full-Stack AI Development
-
----
-
-## 📈 GitHub Stats
-
-![Smruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smrutichan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smrutichan&layout=compact&theme=tokyonight)
 
 ---
 
